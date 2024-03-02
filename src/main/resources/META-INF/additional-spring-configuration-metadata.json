@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "spring.datasource.application",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.application'"
+  },
+  {
+    "name": "spring.springdoc.swagger-ui.path",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.springdoc.swagger-ui.path'"
+  },
+  {
+    "name": "spring.jpa.mvc.pathmatch.matching-strategy",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.mvc.pathmatch.matching-strategy'"
+  },
+  {
+    "name": "spring.jpa.mvc.pathmatch.matching-strategy",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.mvc.pathmatch.matching-strategy'"
+  },
+  {
+    "name": "springdoc.swagger-ui.path",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.path'"
+  }
+]}

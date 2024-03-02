@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    password: 7093160053@kK
+    url: jdbc:mysql://localhost:3306/spring
+    username: root
+  application:
+   name: employee-api
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  mvc:
+    pathmatch:
+      matching-strategy: ant-path-matcher
+      
+
+springdoc:
+  swagger-ui:
+    path: swagger-ui.html
