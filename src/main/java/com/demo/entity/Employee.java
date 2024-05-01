@@ -42,6 +42,10 @@ public class Employee {
 	public String getName() {
 		return name;
 	}
+	@Override
+	public String toString() {
+		return "Employee [id=" + id + ", name=" + name + ", year=" + year + ", gender=" + gender + "]";
+	}
 	public void setName(String name) {
 		this.name = name;
 	}

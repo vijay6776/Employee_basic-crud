@@ -2,7 +2,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     password: 7093160053@kK
-    url: jdbc:mysql://localhost:3306/sbms?useSSL=false&allowPublicKeyRetrieval=true
+    url: jdbc:mysql://localhost:3306/sbms
     username: root
   application:
    name: employee-api
